@@ -17,15 +17,23 @@ namespace Basics
             char character = 'A';    // var character
             string firstName = "Aashish"; // var string
             bool isWorking = true;  // bool
+            Object obj = 'a';  // Can contain any type of data int, string, double, float...
 
-            Console.WriteLine(number);
-            Console.WriteLine(count);
-            Console.WriteLine(totalPrice);
-            Console.WriteLine(character);
-            Console.WriteLine(firstName);
-            Console.WriteLine(isWorking);
 
-            Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+            //Console.WriteLine(number);
+            //Console.WriteLine(count);
+            //Console.WriteLine(totalPrice);
+            //Console.WriteLine(character);
+            //Console.WriteLine(firstName);
+            //Console.WriteLine(isWorking);
+            //Console.WriteLine(obj);
+
+            //Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+
+            // ---- Real life example of boolean-----
+            int myAge = 20;
+            int votingAge = 18;
+            Console.WriteLine(myAge >= votingAge);
         }
     }
 }
