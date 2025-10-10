@@ -8,6 +8,7 @@ namespace Basics
 {
     internal class _5_Constants
     {
+        // ---- Constants in C sharp----
         internal void MyConstant()
         {
             const String subject = "C Sharp";
