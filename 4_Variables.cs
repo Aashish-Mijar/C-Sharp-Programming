@@ -16,7 +16,7 @@ namespace Basics
               // Local variable
             int y = 4;
             Console.WriteLine("The value of y is " + y);
-            y = 6;
+            y = 7;
             Console.WriteLine("The value of y is " + y);
             Console.WriteLine("The value of y is " + _4_Variables.y);
 
