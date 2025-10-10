@@ -26,8 +26,8 @@ namespace Basics
 
 
             // Non-compatible types
-            //string s = "a";
-            //int str = (int)s;
+            // string s = "a";
+            // int str = (int)s;
 
             string str = "1";
             int x = Convert.ToInt32(str);
