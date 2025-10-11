@@ -68,6 +68,7 @@ namespace Basics
             string sent1 = "We are the so-called \"Vikings\" from the north.\n";
             string sent2 = "It\'s alright.\n";
             string sent3 = "The character \'\\' is called backslash";
+            string sent4 = "The tab is used by '\t'";
 
             Console.WriteLine(sent1 + sent2 + sent3);
         }
