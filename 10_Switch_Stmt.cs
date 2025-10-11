@@ -41,6 +41,9 @@ namespace Basics
                 case 7:
                     Console.WriteLine("Saturday");
                     break;
+                
+                case 8:
+                    Console.WriteLine("New day will start.")
 
                 default:
                     Console.WriteLine("Your input is invalid");
