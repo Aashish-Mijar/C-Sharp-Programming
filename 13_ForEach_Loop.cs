@@ -13,7 +13,7 @@ namespace Basics
             string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
             foreach(string i in cars)
             {
-                Console.WriteLine(i);
+                Console.WriteLine("The value in array is :"+ i);
             }
         }
     }
