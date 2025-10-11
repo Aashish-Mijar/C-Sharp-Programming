@@ -20,6 +20,7 @@ namespace Basics
                 for (int j = 1; j <= 3; j++)
                 {
                     Console.WriteLine("Inner: " + j);
+                    Console.WriteLine("Inner loop is executing....")
                 }
             }
 
