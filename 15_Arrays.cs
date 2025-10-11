@@ -43,7 +43,7 @@ namespace Basics
             Array.Sort(fruits);
             foreach(string fruit in fruits)
             {
-                //Console.WriteLine(fruit);
+                Console.WriteLine(fruit);
             }
 
             // Finding Min, Max, and sum in array using linq
