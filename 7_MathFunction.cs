@@ -28,6 +28,8 @@ namespace Basics
             // Truncate
             Console.WriteLine("Truncate value: {0}", Math.Truncate(45.8773m));
 
+            
+
 
         }
 
