@@ -45,8 +45,8 @@ namespace Basics
                 case 8:
                     Console.WriteLine("New day will start.")
 
-                default:
-                    Console.WriteLine("Your input is invalid");
+               default:
+                    Console.WriteLine("Your input is invalid!");
                     break;
             }
         }
