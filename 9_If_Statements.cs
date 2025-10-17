@@ -41,6 +41,7 @@ namespace Basics
 
             // ----- Short hand if->else (Ternary Operator)
             string result = (time > 18) ? "Good day. " : "Good evening. ";
+            string result = (time > 19)? "You are late": "You're just in time";
             Console.WriteLine(result);
         }
     }
