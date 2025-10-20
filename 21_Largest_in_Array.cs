@@ -17,6 +17,9 @@ namespace Basics
                 Console.Write($"Number {i+1}: ");
                 numbers[i] = Convert.ToInt32(Console.ReadLine());
             }
+
+            int max = numbers[0];
+            int min = numbers[0];
            
         }
     }
