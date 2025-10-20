@@ -13,6 +13,12 @@ namespace Basics
          int[] marks = new int[5];
          int total = 0;
 
+         Console.WriteLine("Enter marks for 5 subjects: ");
+
+         for(int i = 0; i<5; i++){
+            
+         }
+
         }
     }
 }
