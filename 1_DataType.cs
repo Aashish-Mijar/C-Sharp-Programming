@@ -26,7 +26,7 @@ namespace Basics
             //Console.WriteLine(character);
             //Console.WriteLine(firstName);
             //Console.WriteLine(isWorking);
-            //Console.WriteLine(obj);
+            // Console.WriteLine(obj);
 
             //Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
 
