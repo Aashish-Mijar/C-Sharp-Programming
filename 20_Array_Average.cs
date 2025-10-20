@@ -20,6 +20,8 @@ namespace Basics
             marks[i] = Convert.ToInt32(Console.ReadLine());
             total += marks[i];
          }
+         double average = (double)total/marks.Length;
+         
 
         }
     }
