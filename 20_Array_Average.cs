@@ -17,6 +17,8 @@ namespace Basics
 
          for(int i = 0; i<5; i++){
             Console.Write($"Subject {i+ 1}: ");
+            marks[i] = Convert.ToInt32(Console.ReadLine());
+            total += marks[i];
          }
 
         }
