@@ -29,6 +29,8 @@ namespace Basics
                 
             }
            
+           Console.WriteLine($"\nLargest number: {max}");
+           Console.WriteLine($"Smallest number: {min}");
         }
     }
 }
