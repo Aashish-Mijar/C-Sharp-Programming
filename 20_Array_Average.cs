@@ -21,7 +21,9 @@ namespace Basics
             total += marks[i];
          }
          double average = (double)total/marks.Length;
-         
+
+         Console.WriteLine("\nTotal Marks = "+total);
+         Console.WriteLine("Average Marks = "+average);
 
         }
     }
