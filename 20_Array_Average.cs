@@ -16,7 +16,7 @@ namespace Basics
          Console.WriteLine("Enter marks for 5 subjects: ");
 
          for(int i = 0; i<5; i++){
-            
+            Console.Write($"Subject {i+ 1}: ");
          }
 
         }
