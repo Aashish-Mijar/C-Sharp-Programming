@@ -14,6 +14,10 @@ namespace Basics
 
             Console.WriteLine("Employees earning above 50000:\n");
 
+            for(int i =0; i<employees.Length; i++){
+                
+            }
+
         }
      
 
