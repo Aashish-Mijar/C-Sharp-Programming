@@ -13,7 +13,8 @@ namespace Basics
             Console.WriteLine($"Age: {age}");
         }
         static void Main(){
-
+            // Using named arguments
+            DisplayInfo(name: "Aashish", age:21);
         }
        
             
