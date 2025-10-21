@@ -15,7 +15,9 @@ namespace Basics
             Console.WriteLine("Employees earning above 50000:\n");
 
             for(int i =0; i<employees.Length; i++){
-                
+                if(salary[i]>50000){
+                    Console.WriteLine($"{employees[i]}- Rs.{salary[i]}");
+                }
             }
 
         }
