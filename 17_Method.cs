@@ -26,7 +26,7 @@ namespace Basics
         {
             myMethod("Aashish", 20);
             int result = sumTwoNum(5, 8);
-            Console.WriteLine("The sum of two number is: " + result);
+            Console.WriteLine("The sum of two numbers is: "+ result);
         }
     }
 }
