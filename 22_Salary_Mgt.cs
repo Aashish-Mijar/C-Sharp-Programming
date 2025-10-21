@@ -9,8 +9,9 @@ namespace Basics
     internal class _22_Salary_Mgt
     { 
         static void Main(){
-            string[] employees = {"Rita", "Suman", "Aashish", "Mira", "Kiran"}
-            
+            string[] employees = {"Rita", "Suman", "Aashish", "Mira", "Kiran"};
+            double[] salary = {40000, 60000,200000,78000, 75000};
+
         }
      
 
