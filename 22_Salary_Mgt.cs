@@ -12,6 +12,8 @@ namespace Basics
             string[] employees = {"Rita", "Suman", "Aashish", "Mira", "Kiran"};
             double[] salary = {40000, 60000,200000,78000, 75000};
 
+            Console.WriteLine("Employees earning above 50000:\n");
+
         }
      
 
