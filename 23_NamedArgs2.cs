@@ -15,6 +15,9 @@ namespace Basics
         static void Main(){
             // Using named arguments
             DisplayInfo(name: "Aashish", age:21);
+
+            // You can also change the order safely
+            DisplayInfo(age:18, name: "Mira");
         }
        
             
