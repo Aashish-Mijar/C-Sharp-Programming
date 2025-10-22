@@ -12,6 +12,8 @@ namespace Basics
             Console.WriteLIne($"Name: {name}, Age:{age}, Course: {course}, GPA: {gpa}, City:{city}");
         }
       
-            
+        static void Main() {
+            // Without named arguments (hard to read)
+        }
     }
 }
