@@ -8,7 +8,9 @@ namespace Basics
 {
     internal class _25_Named_Args_inMethod
     {
-        
+        static void CreateStudent(){
+            
+        }
       
             
     }
