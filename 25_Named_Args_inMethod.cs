@@ -15,6 +15,15 @@ namespace Basics
         static void Main() {
             // Without named arguments (hard to read)
             CreateStudent("Mira", 20, "BCA", 3.8, "Waling");
+
+            // With named arguments (clear!)
+            CreateStudent(
+                name: "Suman",
+                age: 21,
+                course:"BBA",
+                gpa:3.6,
+                city:"Pokhara"
+            );
         }
     }
 }
