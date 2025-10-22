@@ -13,6 +13,9 @@ namespace Basics
             Console.WriteLine($"Total Price after discount: {total}");
 
         }
+        static void Main(){
+            // Mixing positional (first two ) and named (last one)
+        }
         
     }
 }
