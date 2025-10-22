@@ -9,7 +9,7 @@ namespace Basics
     internal class _24_Positional_Named_Args
     {
         static void CalculateTotal(int price, int quantity, double discount){
-            
+            double total = price*quantity*(1-discount);
 
         }
         
