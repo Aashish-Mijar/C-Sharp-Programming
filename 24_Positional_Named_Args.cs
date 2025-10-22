@@ -8,7 +8,8 @@ namespace Basics
 {
     internal class _24_Positional_Named_Args
     {
-        static void CalculateTotal(){
+        static void CalculateTotal(int price, int quantity, double discount){
+            
 
         }
         
