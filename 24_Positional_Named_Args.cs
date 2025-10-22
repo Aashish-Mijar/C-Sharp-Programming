@@ -10,6 +10,7 @@ namespace Basics
     {
         static void CalculateTotal(int price, int quantity, double discount){
             double total = price*quantity*(1-discount);
+            Console.WriteLine($"Total Price after discount: {total}");
 
         }
         
