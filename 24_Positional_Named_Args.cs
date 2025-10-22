@@ -15,6 +15,7 @@ namespace Basics
         }
         static void Main(){
             // Mixing positional (first two ) and named (last one)
+            CalculateTotal(500, 2, discount: 0.1);
         }
         
     }
