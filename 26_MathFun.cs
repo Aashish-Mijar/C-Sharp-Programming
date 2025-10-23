@@ -14,6 +14,9 @@ namespace Basics
             double a = 5;
             double b = 6;
 
+            double angle = 45;
+            double radians = angle * Math.PI / 180;
+
             Console.WriteLine("Number: "+ num);
             Console.WriteLine("Round: "+Math.Round(num)); 
             Console.WriteLine("Floor: "+Math.Floor(num));
