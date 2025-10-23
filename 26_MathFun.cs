@@ -21,6 +21,8 @@ namespace Basics
             Console.WriteLine("Power "+ Math.Pow(a, b));
             Console.WriteLine("Square root: "+ Math.Sqrt(35));
             Console.WriteLine("Absoulte value of x: "+ Math.Abs(num));
+            Console.WriteLine("Maximum: "+ Math.Max(a, b));
+            Console.WriteLine("Minimum: "+Math.Min(a,b));
         }
        
         }
