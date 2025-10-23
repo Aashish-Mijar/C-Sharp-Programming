@@ -20,6 +20,7 @@ namespace Basics
             Console.WriteLine("Celiling: "+Math.Ceiling(num));
             Console.WriteLine("Power "+ Math.Pow(a, b));
             Console.WriteLine("Square root: "+ Math.Sqrt(35));
+            Console.WriteLine("Absoulte value of x: "+ Math.Abs(num));
         }
        
         }
