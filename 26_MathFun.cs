@@ -9,7 +9,10 @@ namespace Basics
     internal class _26_MathFun
     {
         static void Main(){
-            
+            double num = 9.67;
+
+            Console.WriteLine("Number: "+ num);
+            Console.WriteLine("Number: "+Math.Round(num)); 
         }
        
         }
