@@ -29,6 +29,7 @@ namespace Basics
 
             Console.WriteLine("Sin(45deg): "+ Math.Sin(radians));
             Console.WriteLine("Cos(45deg): "+Math.Cos(radians));
+            Console.WriteLine("Tan(45deg): "+Math.Tan(radians));
         }
        
         }
