@@ -28,6 +28,7 @@ namespace Basics
             Console.WriteLine("Minimum: "+Math.Min(a,b));
 
             Console.WriteLine("Sin(45deg): "+ Math.Sin(radians));
+            Console.WriteLine("Cos(45deg): "+Math.Cos(radians));
         }
        
         }
