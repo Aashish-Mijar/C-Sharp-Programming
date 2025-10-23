@@ -18,6 +18,7 @@ namespace Basics
             Console.WriteLine("Round: "+Math.Round(num)); 
             Console.WriteLine("Floor: "+Math.Floor(num));
             Console.WriteLine("Celiling: "+Math.Ceiling(num));
+            Console.WriteLine("Power "+ Math.Pow(a, b));
         }
        
         }
