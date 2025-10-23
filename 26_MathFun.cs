@@ -13,6 +13,7 @@ namespace Basics
 
             Console.WriteLine("Number: "+ num);
             Console.WriteLine("Number: "+Math.Round(num)); 
+            Console.WriteLine("Number: "+Math.Floor(num));
         }
        
         }
