@@ -26,6 +26,8 @@ namespace Basics
             Console.WriteLine("Absoulte value of x: "+ Math.Abs(num));
             Console.WriteLine("Maximum: "+ Math.Max(a, b));
             Console.WriteLine("Minimum: "+Math.Min(a,b));
+
+            Console.WriteLine("Sin(45deg): "+ Math.Sin(radians));
         }
        
         }
