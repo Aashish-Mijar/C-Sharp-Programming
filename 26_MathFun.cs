@@ -11,6 +11,9 @@ namespace Basics
         static void Main(){
             double num = 9.67;
 
+            double a = 5;
+            double b = 6;
+
             Console.WriteLine("Number: "+ num);
             Console.WriteLine("Round: "+Math.Round(num)); 
             Console.WriteLine("Floor: "+Math.Floor(num));
