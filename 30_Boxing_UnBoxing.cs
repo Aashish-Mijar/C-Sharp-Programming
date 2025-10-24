@@ -10,7 +10,8 @@ namespace Basics
     {
        
        static void Main(){
-        
+        int x = 100;
+        object obj = x;
        }
         }
   }
