@@ -10,6 +10,9 @@ namespace Basics
     {
         static void Main(){
       Random rand = new Random();
+
+      int randomNum = rand.Next(1, 11);
+      
        
         }
   }
