@@ -12,7 +12,8 @@ namespace Basics
       Random rand = new Random();
 
       int randomNum = rand.Next(1, 11);
-      
+
+      Console.WriteLine("Random number between 1 and 10: "+randomNum);
        
         }
   }
