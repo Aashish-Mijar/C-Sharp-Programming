@@ -12,9 +12,11 @@ namespace Basics
        static void Main(){
         object[] data = new object[3];
 
-        data[0] = 10;
-        data[1] = 20.5;
-        data[2] = "C#";
+        data[0] = 10; // int (boxed)
+        data[1] = 20.5; // double(boxed)
+        data[2] = "C#";  // string (already reference type)
+
+        Console.WriteLine("Stored values: ")
        }
         }
   }
