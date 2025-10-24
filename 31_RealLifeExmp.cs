@@ -20,6 +20,10 @@ namespace Basics
         foreach(var item in data){
             Console.WriteLine(item);
         }
+
+        // Unboxing the int
+        int number = (int)data[0];
+        Console.WriteLine("\nUnboxed int: "+number);
        }
         }
   }
