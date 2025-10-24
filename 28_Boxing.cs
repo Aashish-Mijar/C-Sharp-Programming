@@ -9,6 +9,8 @@ namespace Basics
     internal class _26_MathFun
     {
         static void Main(){
+            int num = 10;
+            object obj = num;
          
         }
   }
