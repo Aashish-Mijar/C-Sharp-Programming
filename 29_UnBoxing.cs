@@ -14,7 +14,8 @@ namespace Basics
         int num = (int)obj;
 
         Console.WriteLine("Object value: "+obj);
-        
+        Console.WriteLine("Unboxed integer: "+num);
+
        }
         }
   }
