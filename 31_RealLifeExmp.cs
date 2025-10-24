@@ -10,7 +10,7 @@ namespace Basics
     {
        
        static void Main(){
-     
+        object[] data = new object[3];
        }
         }
   }
