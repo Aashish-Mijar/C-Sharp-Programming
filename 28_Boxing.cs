@@ -13,6 +13,7 @@ namespace Basics
             object obj = num;
 
             Console.WriteLine("Value type: "+num);
+            Console.WriteLine("Boxed type: "+obj);
          
         }
   }
