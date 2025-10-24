@@ -14,6 +14,9 @@ namespace Basics
         object obj = x;
 
         Console.WriteLine("After Boxing: "+obj);
+
+        int y = (int)obj;
+        Console.WriteLine("After unboxing: "+ y);
        }
         }
   }
