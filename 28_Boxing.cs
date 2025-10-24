@@ -11,6 +11,8 @@ namespace Basics
         static void Main(){
             int num = 10;
             object obj = num;
+
+            Console.WriteLine("Value type: "+num);
          
         }
   }
