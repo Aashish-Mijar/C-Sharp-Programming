@@ -16,7 +16,10 @@ namespace Basics
         data[1] = 20.5; // double(boxed)
         data[2] = "C#";  // string (already reference type)
 
-        Console.WriteLine("Stored values: ")
+        Console.WriteLine("Stored values: ");
+        foreach(var item in data){
+            Console.WriteLine(item);
+        }
        }
         }
   }
